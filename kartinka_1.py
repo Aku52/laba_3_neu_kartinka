@@ -1,3 +1,6 @@
+"Сравнение точности CNN на CIFAR-10 при обучении на полной (50 000)"
+" и случайной (10 000) выборках"
+
 from keras.datasets import cifar10
 from keras import models, layers
 import numpy as np
